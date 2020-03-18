@@ -5,5 +5,10 @@
   "repository": "https://github.com/fcohen26/francescohen2.git",
   "author": "Frances Cohen <fcohen26@gmail.com>",
   "license": "MIT",
-  "scripts": {"start": "node src/index.js"}
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
